@@ -15,10 +15,12 @@ Once done, run middleman inside the root and the rest should be self explanatory
 * CoffeeScript (enhancing)
 * Susy (for grids/layout)
 * Light ruby back-end (for who knows what)
+* Light tests (rspec/capybara)
 
 ## Upcoming
 
-* Has Tests! (rspec/some phantom view/screengrabbing thing)
+* Some kinda CI/Build passing thingy
+* More Tests! (rspec/some phantom view/screengrabbing thingy)
 
 ## Other
 * Use MarkDown for blog posts
