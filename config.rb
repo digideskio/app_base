@@ -1,3 +1,7 @@
+require "extensions/dir_manager"
+
+activate :dir_manager
+
 configure :development do
   activate :livereload
 end
